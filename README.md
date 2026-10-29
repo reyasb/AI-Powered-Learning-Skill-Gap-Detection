@@ -263,12 +263,7 @@ npm run build
 
 ---
 
-## 9. Containerized Deployment (Docker)
+## 9. Containerized Deployment:
 
-To run the entire system via Docker Compose:
-```bash
-docker-compose up --build -d
-```
 Services:
-- Backend: `http://localhost:8000`
-- Frontend: `http://localhost:5173`
+-Link: "https://skillmap-ai-omega.vercel.app"
